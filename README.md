@@ -1,4 +1,4 @@
-### Lucas Leal aqui :)
+### Rafael Pinto 
 Atualmente Cientista de Dados. Curioso sobre dados e matematica e estudando sobre tudo que envolve dados nas horas vagas.
 
 - 👨🏻‍💻 **Estudante** de Ciência de Dados na [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)

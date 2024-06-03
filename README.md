@@ -15,9 +15,6 @@ Atualmente Cientista de Dados. Curioso sobre dados e matematica e estudando sobr
 &nbsp;<a href="https://www.linkedin.com/in/rafaelpintoti/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="https://llucaslleall.medium.com/">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>&nbsp;
 &nbsp;<a href="https://www.instagram.com/rafapintosz/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;

@@ -21,11 +21,11 @@ Atualmente Cientista de Dados. Curioso sobre dados e matematica e estudando sobr
 
 #### E pode aproveitar pra ver alguns conteúdos que eu criei:
 - <a href="https://www.kaggle.com/code/rafapintods/data-cleaning-titanic">
-    Projeto Kaggle: data cleaning do dataset do titanic
+   Projeto Kaggle: data cleaning do dataset do titanic
   </a>
 - <a href="https://github.com/szpeeKi/HousePrice/tree/main">
    Projeto Kaggle: prevendo valores de casas (House Prices)
-</a>
-- <a href="https://www.kaggle.com/code/rafapintods/machine-learning-com-iris">
-    Projeto Kaggle: Machine Learning com dataset iris
   </a>
+- <a href="https://www.kaggle.com/code/rafapintods/machine-learning-com-iris">
+   Projeto Kaggle: Machine Learning com dataset iris
+</a>

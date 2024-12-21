@@ -20,7 +20,7 @@ Atualmente Cientista de Dados. Curioso sobre dados e matematica e estudando sobr
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
 &nbsp;<a href="https://medium.com/@dev.rafapinto">
-  <img src="https://img.shields.io/badge/Medium-%23E4405F.svg?style=for-the-badge&logo=Medium&logoColor=white">
+  <img src="https://img.shields.io/badge/Medium-%23E4405F.svg?style=for-the-badge&logo=Medium&logoColor=black">
 </a>&nbsp;
 
 #### E pode aproveitar pra ver alguns conteúdos que eu criei:

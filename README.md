@@ -19,6 +19,9 @@ Atualmente Cientista de Dados. Curioso sobre dados e matematica e estudando sobr
 &nbsp;<a href="https://www.instagram.com/rafapintosz/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
+&nbsp;<a href="https://medium.com/@dev.rafapinto">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>&nbsp;
 
 #### E pode aproveitar pra ver alguns conteúdos que eu criei:
 - <a href="https://www.kaggle.com/code/rafapintods/data-cleaning-titanic">

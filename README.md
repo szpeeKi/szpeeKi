@@ -1,42 +1,61 @@
-### Olá, eu sou o Rafael Pinto ✌️
-**Cientista de Dados | Data Analytics | Engenheiro de Dados**
+### Olá, eu sou o Rafael Pinto
 
-Curioso sobre a matemática por trás dos algoritmos, apaixonado por videogames e focado em transformar dados brutos em inteligência de negócio. Atualmente no 3º período construindo minha base acadêmica, enquanto desenvolvo projetos práticos envolvendo análise de dados, machine learning e automação.
+**Analista de Dados Jr | Engenheiro de Dados Jr | Estagiário em Dados**
 
-- 🚀 Foco atual em: **Pipelines Analíticos (SQL Avançado)**, **Data Modeling** e **Machine Learning**.
-- 👨🏻‍💻 Estudante de Ciência de Dados na [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/).
+Estudante de Ciência da Computação na Universidade Veiga de Almeida (formatura em dez/2028), buscando estágio ou vaga júnior na área de dados. Gosto de trabalhar perto de quem usa o número: construo pipelines, modelo bases e entrego o resultado em dashboard.
 
-##
-
-### 🛠️ Minha Stack Principal:
-<div style="display: inline">
-  &nbsp;&nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='40' height='40' src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" alt="SQL" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" />&nbsp;&nbsp;
-</div> 
+- Foco atual: **SQL**, **Python**, **Power BI**, **Excel** e **modelagem dimensional (Star Schema)**.
+- Estudando agora: **Apache Airflow**, **PySpark**, **Databricks** e **dbt**.
+- No dia a dia: automações e integrações entre sistemas via API REST com Python e n8n.
 
 ##
 
-### 🏆 Projetos em Destaque:
+### Stack
 
-- 📊 **[Customer Data Mart: Segmentação Analítica (RFM & LTV)](#link-do-seu-novo-repositorio)**
-  *Pipeline analítico de ponta a ponta construído em SQL para segmentação de clientes de e-commerce. Utilização de CTEs, Window Functions e tratamento de regras de negócio complexas.*
-
-- 🏡 **[House Prices: Previsão de Valores Imobiliários](https://github.com/szpeeKi/HousePrice/tree/main)**
-  *Projeto de Machine Learning focado em prever o valor de propriedades usando regressão.*
-
-- 🚢 **[Data Cleaning & EDA: Titanic Dataset](https://www.kaggle.com/code/rafapintods/data-cleaning-titanic)**
-  *Limpeza de dados e análise exploratória aplicada a um dos datasets mais clássicos da ciência de dados.*
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ##
 
-### 📬 Você me encontra em:
+### Projetos
+
+**Customer Data Mart: Segmentação de Clientes (RFM & LTV)** — *repositório em publicação*
+Pipeline analítico de ponta a ponta em SQL para segmentar clientes de e-commerce. CTEs, Window Functions e regras de negócio no banco, com o resultado entregue em um dashboard de Power BI que aponta quem está em risco de churn e qual produto oferecer.
+
+**Data Lake Serverless na AWS** — *repositório em publicação*
+Pipeline 100% serverless: ingestão de API REST com Python no AWS Lambda (agendado via EventBridge), armazenamento no S3, ETL no AWS Glue convertendo JSON para Parquet e análise em SQL no Amazon Athena.
+
+**[House Prices: Previsão de Valores Imobiliários](https://github.com/szpeeKi/HousePrice)**
+Projeto de Machine Learning focado em prever o valor de propriedades usando regressão.
+
+**[Data Cleaning & EDA: Titanic Dataset](https://www.kaggle.com/code/rafapintods/data-cleaning-titanic)**
+Limpeza de dados e análise exploratória aplicada a um dos datasets mais clássicos da área.
+
+##
+
+### Formação
+
+- **Ciência da Computação** — Universidade Veiga de Almeida (2025 – 2028)
+- **Python Impressionador** — Hashtag Treinamentos (2022)
+- **Técnico em Tecnologia da Informação** — Firjan SENAI Maracanã (2020 – 2022)
+
+##
+
+### Você me encontra em:
 &nbsp;<a href="https://www.linkedin.com/in/rafaelpintoti/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>&nbsp;
 &nbsp;<a href="https://medium.com/@dev.rafapinto">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+</a>&nbsp;
+&nbsp;<a href="mailto:dev.rafapinto@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
 </a>&nbsp;
 &nbsp;<a href="https://www.instagram.com/rafapintosz/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>&nbsp;
